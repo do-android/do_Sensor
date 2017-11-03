@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+
+/doExt_do_Sensor/do_Sensor.zip
